@@ -1,0 +1,85 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/admiadminn/Desktop/INTIA_Prototypingkarten_EscapeGame Ordner/Document fonts/AdobeFnt22.lst
+FileLength:1692
+FileModTime:633527483
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dosis-Bold
+FamilyName:Dosis
+StyleName:Bold
+MenuName:Dosis
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Dosis Bold
+WritingScript:Roman
+OutlineFileName:/Users/admiadminn/Desktop/INTIA_Prototypingkarten_EscapeGame Ordner/Document fonts/Dosis-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59588
+FileModTime:590297514
+NameArray:0,Mac,4,Dosis Bold
+NameArray:0,Win,1,Dosis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dosis-SemiBold
+FamilyName:Dosis
+StyleName:SemiBold
+MenuName:Dosis
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Dosis SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/admiadminn/Desktop/INTIA_Prototypingkarten_EscapeGame Ordner/Document fonts/Dosis-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58524
+FileModTime:590297514
+NameArray:0,Mac,4,Dosis SemiBold
+NameArray:0,Win,1,Dosis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VerdanaPro-Light
+FamilyName:Verdana Pro
+StyleName:Light
+MenuName:Verdana Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Verdana Pro Light
+WritingScript:Roman
+OutlineFileName:/Users/admiadminn/Desktop/INTIA_Prototypingkarten_EscapeGame Ordner/Document fonts/VerdanaPro-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155796
+FileModTime:548682692
+NameArray:0,Mac,4,Verdana Pro Light
+NameArray:0,Win,1,Verdana Pro Light
+NameArray:0,Win,16,Verdana Pro
+%EndFont
+
