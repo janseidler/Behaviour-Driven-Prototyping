@@ -3,7 +3,7 @@ This repository contains all artefacts created for the co-creative prototyping m
 
 More information about can be found from the following sources:
 
-* [Behaviour-Driven Prototyping 1.0.0.](https://portal.intia.de/methods/bdp)
+* [Behaviour-Driven Prototyping 1.0.0.](https://portal.intia.de/methods/bdp) - Step-by-step guide for using this method
 * Story: Partizipative Prototypisierung von Technischen Lösungsideen mittels Behaviour-Driven Prototyping
 
 # Contribute to the method
