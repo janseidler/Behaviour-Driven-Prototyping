@@ -24,12 +24,6 @@ DIN-A4 Blatt (gelb)
 A wish about a certain solution in order to solve the problem or fulfil a specific need.
 
 
-### DAMIT
-DIN-A4 Blatt (orange)
-
-This explains the benefit that certain solution has for the intended person.
-
-
 ## Solution Field
 
 Co-Create the thing right. Once the problem has been defined, it is time to go about finding the right solution by prototyping different possible solutions with a simple causality chain "When something happens, then something else happens." (cause and effect)
@@ -44,5 +38,10 @@ The first part of the causality chain: "When something happens..." (the cause)
 DIN-A4 Blatt (green)
 
 The second part of the causality chain: "..., then something else happens." (the effect)
+
+### DAMIT
+DIN-A4 Blatt (orange)
+
+This explains the benefit that certain solution has for the intended person.
 
 
