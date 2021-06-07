@@ -1,6 +1,6 @@
 # Prototyping Fields
 
-![](prototyping-fields/inventor-scroll.jpg)
+![](inventor-scroll.jpg)
 
 
 ## Inventor Scroll
