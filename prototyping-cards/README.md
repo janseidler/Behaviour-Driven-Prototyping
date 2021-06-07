@@ -42,7 +42,7 @@ In the abstract cards, "what is to be achieved" should be mapped, e.g. closing, 
 |Bremsen ([png](https://th-koeln.sciebo.de/f/520979675), [svg](https://th-koeln.sciebo.de/f/520979678)) | ![](attachments/25335850/25335923.png)
 |Lokalisieren ([png](https://th-koeln.sciebo.de/f/520982753), [svg](https://th-koeln.sciebo.de/f/520982750)) | ![](attachments/25335850/25335924.png)
 |Ton ausgeben ([png](https://th-koeln.sciebo.de/f/520983185), [svg](https://th-koeln.sciebo.de/f/520983179)) | ![](attachments/25335850/25335925.png)
-|Benachrichtigen ([png](https://th-koeln.sciebo.de/f/520450490), [svg](https://th-koeln.sciebo.de/f/520450481)) | ![](streamline-icons/behaviours/streamline-icon-alarm-bell-check@140x140.png)
+|Benachrichtigen ([png](streamline-icons/behaviours/streamline-icon-alarm-bell-check@140x140.png), [svg](streamline-icons/behaviours/streamline-icon-alarm-bell-check@140x140.svg)) | ![](streamline-icons/behaviours/streamline-icon-alarm-bell-check@140x140.png)
 |Erinnern (s. o.) | ![](attachments/25335850/25335926.png)
 |Temperatur messen ([png](https://th-koeln.sciebo.de/f/520983836), [svg](https://th-koeln.sciebo.de/f/520983845)) | ![](attachments/25335850/25335927.png)
 |Bewegung erkennen ([png](https://th-koeln.sciebo.de/f/521197610), [svg](https://th-koeln.sciebo.de/f/521197607)) | ![](attachments/25335850/25335928.png)
