@@ -26,7 +26,7 @@ When printing the cards, the following printer settings works as a workaround fo
 
 - Landscape
 
-#### Page layout 
+#### Page layout:
 
 - Pages per sheet (behaviour and technology cards) -> 9 (3x3)
 - Pages per sheet (command cards) -> 16 (4x4)
