@@ -18,16 +18,18 @@ So how to print the cards? The layout from the indesign files is at the moment a
 
 When printing the cards, the following printer settings works as a workaround for achieving the above-mentioned desired size.
 
-#### Paper
+#### Paper:
 
-Page size: **A4 (Width 297.00mm, Height 210.00mm)**
+- Page size: **A4 (Width 297.00mm, Height 210.00mm)**
 
-Orientation: **Landscape**
+#### Orientation: 
 
-Page layout: 
+- Landscape
 
-- **Pages per sheet (behaviour and technology cards) -> 9 (3x3)**
-- **Pages per sheet (command cards) -> 16 (4x4)**
+#### Page layout 
+
+- Pages per sheet (behaviour and technology cards) -> 9 (3x3)
+- Pages per sheet (command cards) -> 16 (4x4)
 
 
 Splitting the Cards Into Abstraction Levels
