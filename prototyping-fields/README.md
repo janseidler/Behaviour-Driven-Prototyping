@@ -40,7 +40,7 @@ DIN-A4 Blatt (green)
 
 The second part of the causality chain: "..., then something else happens." (the effect)
 
-![](dann-field-small.jpg)
+![](dann-field.jpg)
 
 ### DAMIT
 DIN-A4 Blatt (orange)
