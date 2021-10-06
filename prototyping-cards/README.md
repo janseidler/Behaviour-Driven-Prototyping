@@ -1,13 +1,33 @@
 Table of Contents
 ======
 
-*   [Layout](#layout)
+*   Printing the cards
 *   [Splitting the Cards Into Abstraction Levels](#splitting-the-cards-into-abstraction-levels)
     *   [Behaviour - Abstract Function](#behaviour-abstract-function)
     *   [Technology - Concrete "Thing"](#technology-concrete-thing)
     *   [Command - User Triggers State/Action/Event](#command-user-triggers-state-action-event)
 *   [For Iteration](#for-iteration)
 *   [References](#references)
+
+
+## Printing the Cards
+
+So how to print the cards? The layout from the indesign files is at the moment a bit too large (9cm x 9cm). The goal is to have the size of the behaviour and technology cards to be 7cm x 7cm, and for the command cards to be 4.5cm x 4.5cm.
+
+### Settings for printing the cards
+
+When printing the cards, the following printer settings works as a workaround for achieving the above-mentioned desired size.
+
+#### Paper
+
+Page size: **A4 (Width 297.00mm, Height 210.00mm)**
+
+Orientation: **Landscape**
+
+Page layout: 
+
+- **Pages per sheet (behaviour and technology cards) -> 9 (3x3)**
+- **Pages per sheet (command cards) -> 16 (4x4)**
 
 
 Splitting the Cards Into Abstraction Levels
