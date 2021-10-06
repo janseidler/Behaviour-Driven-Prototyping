@@ -10,4 +10,4 @@ More information about can be found from the following sources:
 Everyone is welcome to contribute to this method. Check out our issues tab and pick one issue out which seems fitting to you. To get changes merged into the master branch you need to create a pull request.
 
 # License
-This method is released under an (https://github.com/th-koeln-intia/behaviour-driven-prototyping/blob/main/LICENSE)[MIT License].
+This method is released under an [MIT License](https://github.com/th-koeln-intia/behaviour-driven-prototyping/blob/main/LICENSE).
