@@ -16,6 +16,7 @@ Splitting the Cards Into Abstraction Levels
 ### Behaviour - Abstract Functions
 
 **Cards size: 7cm x 7cm**
+
 **Colour: Yellow → [Purchase link](https://www.mercateo.com/p/CIDE4-57981406/Clairefontaine_4217C_Kunstdruckpapier_Kunstpapier_50_Blaetter.html?ViewName=live~secureMode)**
 
 In the abstract cards, "what is to be achieved" should be mapped, e.g. closing, opening, switching on, switching off, saving, deleting, reading, writing, searching, finding, inputting, outputting (displaying?), notifying, moving, measuring, controlling, (...?).
@@ -80,6 +81,7 @@ In the abstract cards, "what is to be achieved" should be mapped, e.g. closing, 
 ### Technology - Concrete "Thing"
 
 **Cards size: 7cm x 7cm**
+
 **Colour: Green → [Purchase link](https://www.mercateo.com/p/648-cla4215c/Farbiges_Papier_A4_120g_Minze_50_Blatt.html?ViewName=live~secureMode)**
 
 Technology/Material: Box, Memory (USB Stick), Chat Bot, Remote Control, Button, Password Field, Camera, Motor, LED, Light Bulb, Switch, Microphone, Computer, Keyboard, Display, GPS, ... + All Sensors
@@ -153,6 +155,7 @@ Technology/Material: Box, Memory (USB Stick), Chat Bot, Remote Control, Button, 
 ### Command - User Triggers State/Action/Event 
  
 **Cards size: 4,5cm x 4,5cm**
+
 **Colour: Red → [Purchase link](https://www.mercateo.com/p/CIDE4-57981359/Clairefontaine_4212C_Kunstdruckpapier_Kunstpapier_50_Blaetter.html?ViewName=live~secureMode)**
 
 An addition for the "behavior cards" shown should be "how exactly should it behave"? e.g. "Move 5cm to the left" is a command the prototyper gives it
