@@ -33,6 +33,7 @@ DIN-A4 Blatt (light blue)
 
 The first part of the causality chain: "When something happens..." (the cause)
 
+![](wenn-field.jpg)
 
 ### DANN
 DIN-A4 Blatt (green)
