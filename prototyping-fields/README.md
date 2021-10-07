@@ -51,4 +51,6 @@ DIN-A4 Blatt (orange)
 
 This explains the benefit that certain solution has for the intended person.
 
+![](damit-field.jpg)
+
 
