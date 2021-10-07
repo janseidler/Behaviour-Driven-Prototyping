@@ -17,11 +17,15 @@ DIN-A4 Blatt (rot)
 
 As a pain point in order to express something bothersome in the day to day.
 
+![](This-bothers-me.jpg)
+
 
 ### "Ich wünsche mir..."
 DIN-A4 Blatt (gelb)
 
 A wish about a certain solution in order to solve the problem or fulfil a specific need.
+
+![](I-wish.jpg)
 
 
 ## Solution Field
