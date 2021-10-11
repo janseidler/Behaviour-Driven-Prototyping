@@ -9,7 +9,7 @@ More information about can be found from the following sources:
 # Getting Started
 For a quick getting started it is important to print the materials and read the How-to-Play instructions.
 
-## Print the Materials
+## Print and Cut the Materials
 
 * Print the [prototyping cards](https://github.com/th-koeln-intia/behaviour-driven-prototyping/tree/main/prototyping-cards)
 * Cut the [prototyping fields](https://github.com/th-koeln-intia/behaviour-driven-prototyping/tree/main/prototyping-fields) into their respective shapes
