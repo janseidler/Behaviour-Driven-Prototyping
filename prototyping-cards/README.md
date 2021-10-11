@@ -24,7 +24,7 @@ When printing the cards, the following printer settings works as a workaround fo
 
 #### Orientation: 
 
-- Landscape
+- Portrait or Landscape
 
 #### Page layout:
 
