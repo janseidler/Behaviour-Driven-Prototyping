@@ -1,12 +1,12 @@
 # Prototyping Fields
 
-![](inventor-scroll.jpg)
-
-
 ## Inventor Scroll
 
 Flip-Chart-Papier (a 45cmx160cm)
 Edding-Stifte (2x)
+
+![](inventor-scroll.jpg)
+
 
 ## Problem Field
 
