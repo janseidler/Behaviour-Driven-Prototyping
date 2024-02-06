@@ -1,4 +1,4 @@
-# Behaviour-Driven Prototyping ![alt text](https://github.com/janseidler/Behaviour-Driven-Prototyping/blob/main/Logos/Logo-for-Behaviour-Driven-Prototyping-compressed.png?raw=true)
+# <img src="https://github.com/janseidler/Behaviour-Driven-Prototyping/blob/main/Logos/Logo-for-Behaviour-Driven-Prototyping-compressed.png?raw=true" width="100" height="100"> Behaviour-Driven Prototyping 
 A new methodology for rapid, playful, co-creative, behaviour-driven prototyping. 
 
 This repository contains all artefacts created for the co-creative prototyping method Behaviour-Driven Prototyping (BDP).
